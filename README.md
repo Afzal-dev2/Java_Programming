@@ -1,6 +1,6 @@
 ## Hey there!
 
-### Here you can find my solutions to Skillrack and other problems such as Leetcode, Hackerrank,etc.###
+### Here you can find my solutions to Skillrack and other problems such as Leetcode, Hackerrank,etc.
 
 ## Table of contents:
 
