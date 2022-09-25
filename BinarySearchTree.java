@@ -67,7 +67,6 @@ public class BinarySearchTree {
         bst.insert(10);
         bst.insert(40);
 
-
         bst.inorder(root);
 
     }
