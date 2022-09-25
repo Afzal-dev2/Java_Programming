@@ -1,4 +1,4 @@
-//Binary Search Tree without recursion
+//Insertion in Binary Search Tree without recursion
 
 class Node {
     int data;
